@@ -2,6 +2,7 @@
   <div id="app">
     <left-nav></left-nav>
     <div id="" class="main">
+		
 	<router-view></router-view>
 	</div>
   </div>
